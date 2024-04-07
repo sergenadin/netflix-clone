@@ -1,4 +1,4 @@
-click on this to watch the output::   https://mohsinahmad01.github.io/netflix-clone/
+click on this to watch the output:: (https://github.com/sergenadin/netflix-clone.git)
 
 
 # netflix-clone
